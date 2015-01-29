@@ -23,3 +23,4 @@ function sortElevatorQueue() {
   arr1 = arr1.filter(function(n){ return n !== undefined; });
   console.log('arr1 %o, arr2 %o', arr1, arr2);
 }
+// test
